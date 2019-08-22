@@ -1,0 +1,3 @@
+Montana Antonio	25 years	salary: 5000 $
+Scorcese Martin	60 years	salary: 16800 $
+Cameron James	64 years	salary: 33600 $
